@@ -36,6 +36,20 @@
     ".next/dev/types/**/*.ts"
   ],
   "exclude": [
-    "node_modules"
+    "node_modules",
+    "football template",
+    "for template",
+    "fourth template",
+    "new-template",
+    "white background template",
+    "one-piece-video-automation",
+    "one-piece-video-automation copy",
+    "cv",
+    "manga_frames",
+    "manga_pages",
+    "manga_video",
+    "temp_clips",
+    "_shared_sources",
+    "for reerse engineering"
   ]
 }
